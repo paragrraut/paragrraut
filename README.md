@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @paragrraut
 - 👀 I’m interested in Tech and Innovation
 - 🌱 I’m currently learning Data Science for Decision making 
-- 💞️ I’m looking to collaborate on ML/AI , Data Science, Data Engineering, Microservices, Java and AWS
+- 💞️ I’m looking to collaborate on ML/AI , Data Science, Big Data, Microservices, Java and AWS
 - 📫 How to reach me paragrraut@gmail.com
 
 <!---
